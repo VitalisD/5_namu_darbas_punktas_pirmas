@@ -1,0 +1,39 @@
+ /* .menu {background-color: blue;
+    
+}  */
+/* body {
+    background-color: blue;
+} */
+.main {
+    width: 100%;
+    height: 400px;
+    background-color: blueviolet;
+}
+.menu-container {
+    background-color: darkolivegreen;
+    float: left;
+    height: 400px;
+    width: 300px;
+    
+}
+.menu-item {
+    border: 1px; color: black;
+}
+w-100 {
+    width: 100%;}
+w-75 {
+    width: 75%;
+}
+w-50 {
+    width: 50%;
+}
+w-33 {
+    width: 33%;
+}
+w-25 {
+    width: 25%;
+}
+
+.article {
+    border: 1pt; color: black;
+}
