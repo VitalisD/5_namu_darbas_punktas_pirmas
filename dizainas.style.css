@@ -76,3 +76,7 @@ a:visited {
 .navigation ul li:last-child {
     margin-right: 0px;
 }
+.title-container2 h1 {
+    font-weight: 900;
+    font-size: 45px;
+}
